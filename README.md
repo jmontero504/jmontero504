@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](banner_linkedin_02.jpg)
+
 <h1 align="center">Hi 👋, I'm JOSUE MONTERO</h1>
 <h3 align="center">A passionate Virtual Asistant</h3>
 
